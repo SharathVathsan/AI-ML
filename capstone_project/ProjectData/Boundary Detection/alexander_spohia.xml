@@ -1,0 +1,50 @@
+<annotation>
+	<folder>PNG Version</folder>
+	<filename>alexander_spohia.png</filename>
+	<path>G:\My Drive\AI-ML\Capstone Project\ProjectData\PNG Version\alexander_spohia.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4972</width>
+		<height>7026</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Effective Date</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>183</xmin>
+			<ymin>950</ymin>
+			<xmax>1096</xmax>
+			<ymax>1158</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Group Number</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2996</xmin>
+			<ymin>975</ymin>
+			<xmax>4075</xmax>
+			<ymax>1179</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Payroll Location</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4083</xmin>
+			<ymin>983</ymin>
+			<xmax>4941</xmax>
+			<ymax>1183</ymax>
+		</bndbox>
+	</object>
+</annotation>
